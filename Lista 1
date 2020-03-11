@@ -1,8 +1,1001 @@
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8 #Name: iptvtools_10
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8 #Name: iptvtools_13
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8 #Name: iptvtools_16
-https://goo.gl/LcpPNw #Name: iptvtools_23
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 #Name: iptvtools_35
-https://goo.gl/7Y4hBP #Name: iptvtools_37
-https://goo.gl/OngVqc #Name: iptvtools_44
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8 #Name: iptvtools_69
+EXTINF:-1, NETAO TV LISTA PAGA SEM TRAVAMENTOS
+https://i.imgur.com/uKjOoWW.jpg
+
+#EXTINF:-1, Atualizado 17/02/2020
+https://i.imgur.com/8MbL7fC.jpg
+
+#EXTINF:-1,☎️(83)99894-1631
+https://i.imgur.com/QlXpWjq.jpg
+
+#EXTINF:-1,SBT SD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8
+#EXTINF:-1,SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1,SBT RJ HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b216000_sleng.m3u8
+#EXTINF:-1,SBT RJ SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b176000_sleng.m3u8
+#EXTINF:-1,SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1,SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+#EXTINF:-1,SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+#EXTINF:-1,SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+#EXTINF:-1,SBT PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1,REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
+#EXTINF:-1,RECORD SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
+#EXTINF:-1,RECORD SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1,RECORD RJ
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
+#EXTINF:-1,RECORD RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1,REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1,BIS
+http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1, Tv Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1,NOSSA TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+#EXTINF:-1, SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1, SBT SD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8
+#EXTINF:-1, SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1, REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1, REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+#EXTINF:-1, TV CULTURA HD
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
+#EXTINF:-1, REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:-1, CANÇÃO NOVA HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1, TV APARECIDA HD
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1, IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1, ALL SPORTS HD
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1192655349.m3u8
+#EXTINF:-1, 24 HORAS
+http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
+#EXTINF:-1, SBT (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+#EXTINF:-1, SBT (PI)
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1, SBT (RJ)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1, SBT (MA)
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+#EXTINF:-1, TV RECORD (ES)
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original-12996.ts
+#EXTINF:-1, REDE TV
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1209374997.m3u8
+#EXTINF:-1, CULTURA (PA)
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1, CULTURA (MG)
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
+#EXTINF:-1, CATVE
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2140063674.m3u8
+#EXTINF:-1, TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1, TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1, TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
+#EXTINF:-1, TV EVANGELIZAR
+http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w309622185.m3u8
+#EXTINF:-1, REDE VIDA HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+#EXTINF:-1, REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b1296000.m3u8
+#EXTINF:-1, REDE SECULO 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
+#EXTINF:-1, REDE GOSPEL
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
+#EXTINF:-1, TV UNIVERSAL HD
+https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, TV UNIVERSAL FHD
+https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, RADIO JORNAL TV
+http://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w653587283.m3u8
+#EXTINF:-1, BLOOMBERG
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1, ABC NEWS
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1, REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
+#EXTINF:-1, RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1, ALL SPORTS
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w363415987.m3u8
+#EXTINF:-1, TV FILMES
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1, CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+#EXTINF:-1, CINE GOSPEL
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1, GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1, KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+#EXTINF:-1, TV MACEIÓ [AL]
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1, REDE RC [BA]
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1, TV J.SID [BA]
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1531615987
+#EXTINF:-1, TV PADRE CICERO [CE]
+https://59f2354c05961.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/chunklist_w589529614.m3u8
+#EXTINF:-1, TV AMBIENTAL [ES]
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
+#EXTINF:-1, TV DIÁRIO DO SERTÃO [PB]
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+#EXTINF:-1, TV ASSEMBLEIA [RN]
+https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w591050354.m3u8
+#EXTINF:-1, LIVRE TV [RN]
+https://cdn.jmvstream.com/live/hls/lv_7134/LV7134_7pwaEVRpQ4.m3u8
+#EXTINF:-1, TV NATAL [RN]
+http://stmv6.conectastm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1108698460
+#EXTINF:-1, TV FAAP [SP]
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1, TV ITAPETINGA [SP]
+http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8
+#EXTINF:-1, ANOS 70
+http://192.99.150.31:8241/stream?
+#EXTINF:-1, ANOS 80
+http://192.99.150.31:8697/stream?
+#EXTINF:-1, ANOS 90
+http://192.99.150.31:8056/stream?
+#EXTINF:-1, ANOS 2000
+http://6d9a.webradio.upx.net.br:9940/stream?
+#EXTINF:-1, AXÉ
+http://192.99.150.31:8305/stream?
+#EXTINF:-1, BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream?
+#EXTINF:-1, BREGA
+http://192.99.150.31:9007/stream?
+#EXTINF:-1, ELETRÔNICA
+http://192.99.150.31:9095/stream?
+#EXTINF:-1, FESTA
+http://6d9a.webradio.upx.net.br:9070/stream?
+#EXTINF:-1, FORRÓ
+http://192.99.150.31:9019/stream?
+#EXTINF:-1, FUNK
+http://192.99.150.31:9089/stream?
+#EXTINF:-1, GOSPEL
+http://192.99.150.31:9101/stream?
+#EXTINF:-1, HIP HOP
+http://192.99.150.31:8721/stream?
+#EXTINF:-1, HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream?
+#EXTINF:-1, KIDS
+http://192.99.150.31:9431/stream?
+#EXTINF:-1, JAZZ
+http://192.99.150.31:8042/stream?
+#EXTINF:-1, LOUNGE
+http://6d9a.webradio.upx.net.br:9064/stream?
+#EXTINF:-1, METAL
+http://6d9a.webradio.upx.net.br:9898/stream?
+#EXTINF:-1, MPB
+http://192.99.150.31:8775/stream?
+#EXTINF:-1, MÚSICA CLÁSSICA
+http://6d9a.webradio.upx.net.br:9970/stream?
+#EXTINF:-1, NEW ROCK
+http://6d9a.webradio.upx.net.br:8028/stream?
+#EXTINF:-1, PAGODE
+http://6d9a.webradio.upx.net.br:9061/stream?
+#EXTINF:-1, POP HITS
+http://6d9a.webradio.upx.net.br:9046/stream?
+#EXTINF:-1, POP ROCK
+http://6d9a.webradio.upx.net.br:8016/stream?
+#EXTINF:-1, SERTANEJO UNIVERSITÁRIO
+http://192.99.150.31:9191/stream?
+#EXTINF:-1, TRILHAS SONORAS
+http://6d9a.webradio.upx.net.br:9896/stream?
+#EXTINF:-1, SERTANEJO RAIZES
+http://192.99.150.31:9155/stream
+#EXTINF:-1, RAP NACIONAL
+http://192.99.150.31:8377/stream
+#EXTINF:-1, REGGAE
+http://192.99.150.31:8715/stream
+#EXTINF:-1, ROBERTO CARLOS
+http://192.99.150.31:9137/stream
+#EXTINF:-1, ROCK CLASSICO
+http://192.99.150.31:9125/stream
+#EXTINF:-1, RODEIO
+http://192.99.150.31:9473/stream
+#EXTINF:-1, SERTANEJO
+http://192.99.150.31:9485/stream
+#EXTINF:-1, SMOOTH JAZZ
+http://192.99.150.31:8042/stream
+#EXTINF:-1, TECHNO
+http://192.99.150.31:8301/stream
+#EXTINF:-1, TECNO BREGA
+http://192.99.150.31:8989/stream
+#EXTINF:-1, STUDIO DO AMOR
+http://192.99.150.31:8962/stream
+#EXTINF:-1, Rádio Rural 830 AM
+http://str.radiorural.com:8011/stream
+#EXTINF:-1, Rádio Rural 95 FM
+http://str.radiorural.com:8010/live
+#EXTINF:-1, Jovem Pan Seridó
+http://wz3.dnip.com.br/93seridohd/93seridohd.stream/chunklist_w173503393.m3u8
+#EXTINF:-1, Rádio Verdes Mares AM 810
+http://srv4.zoeweb.tv:1935/z18-live/stream/chunklist_w483075415.m3u8
+#EXTINF:-1, Rádio Clube 105.5 FM
+http://5940.live.upx.net.br:9082/stream
+#EXTINF:-1, Rádio FM O Dia FM 100.5
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist.m3u8
+#EXTINF:-1, Rádio Band FM 96.1
+http://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w1986330582.m3u8
+#EXTINF:-1, Rádio Bandnews SP 96.9 FM
+https://evpp.mm.uol.com.br/band/bandnewsfm_sp/chunklist_w574835524.m3u8
+#EXTINF:-1, Rádio Clube do Pará 690 AM
+http://ice01.kshost.com.br:8000/live
+#EXTINF:-1, Rádio Itatiaia 610 AM 95.7 FM
+http://1c3e26e6-c938-41ce-a27f-a6535039b307.8903.brasilstream.com.br:8903/stream
+#EXTINF:-1, Rádio Nativa FM 95.3
+http://evpp.mm.uol.com.br/band/nativa_sp/chunklist_w453707469.m3u8
+#EXTINF:-1, Rádio Bandeirantes AM 840 FM 90.9
+https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/chunklist_w1714639095.m3u8
+#EXTINF:-1, Rádio Mix FM 106.3
+http://tuneinmix.crossradio.com.br:8008/stream
+#EXTINF:-1, Rádio Transamérica Hits FM 95.5
+http://ice11.crossradio.com.br:8206/live.mp3
+#EXTINF:-1, Rádio Gaúcha AM 600 FM 93.7
+https://722747t.ha.azioncdn.net/2747t/_definst_/gaucha_rbs.sdp/chunklist_fa6b8cff-486f-42e1-8242-bf0823275256.m3u8
+#EXTINF:-1, MIX FM - JOÃO PESSOA
+http://158.69.117.161:8016/live
+#EXTINF:-1, 104 FM SOUSA
+http://stream.7br.com.br:10018/;
+#EXTINF:-1, ARAPUAN - PATOS
+http://centova6.ciclanohost.com.br:9312/;stream.nsv
+#EXTINF:-1, FOX Sports Racing HD
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1, SBT PE SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1, SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
+#EXTINF:-1, SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+#EXTINF:-1, SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?LISTASDAGLAU
+#EXTINF:-1, SBT PE INTERIOR
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?LISTASDAGLAU
+#EXTINF:-1, SBT IMPERATRIZ
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
+#EXTINF:-1, SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w155384117.m3u8?EDSONSOUSALIST
+#EXTINF:-1, REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+#EXTINF:-1, REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
+#EXTINF:-1, REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1, TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1, TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1, TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1, TV MACEIÓ
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1, TV CULTURA PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1, HISTORY LAB
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
+#EXTINF:-1, AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?LISTASDAGLAU
+#EXTINF:-1, CATVE HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?LISTASDAGLAU
+#EXTINF:-1, TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1, TV CULTURA PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1, CANÇÃO NOVA
+https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_540_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, CANÇÃO NOVA HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?EDSONSOUSALIST
+#EXTINF:-1, TV APARECIDA HD
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?EDSONSOUSALIST
+#EXTINF:-1, GOSPEL CARTOON
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8
+#EXTINF:-1, CINE SKY
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1, CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
+#EXTINF:-1, GOSPEL MOVIES
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
+#EXTINF:-1, http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+#EXTINF:-1, ALL SPORTS BR
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1, NAT GEO
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1, GOSPEL MUSIC TELEVISION
+http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8
+#EXTINF:-1, RETRO
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+#EXTINF:-1, CLIPS CARIOCA
+http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8
+#EXTINF:-1, RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1, RADIO CONTACT
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1, PORTAL FOXMIX
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1, MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8?EDSONSOUSALIST
+#EXTINF:-1, TOP TV
+http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8?EDSONSOUSALIST
+#EXTINF:-1, TV CLIP HD
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1, SBT PI- Canal FutucAndroiD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1, REDE TV! SP- Canal FutucAndroiD
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8?ANTONYGTV
+#EXTINF:-1, REDE TV! SP- Canal FutucAndroiD
+http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8?ANTONYGTV
+#EXTINF:-1, HBO2- Canal FutucAndroiD
+http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8
+#EXTINF:-1, FOX MOVIES- Canal FutucAndroiD
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1, CARTOON NETWORK- Canal FutucAndroiD
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1, ESPN 2- Canal FutucAndroiD
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1, REAL MADRID TV- Canal FutucAndroiD
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?ANTONYGTV
+#EXTINF:-1, ALL SPORTS- Canal FutucAndroiD
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1, TV CULTURA MG- Canal FutucAndroiD
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+#EXTINF:-1, HOP CHANNEL- Canal FutucAndroiD
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, TV APARECIDA- Canal FutucAndroiD
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w791297938.m3u8?ANTONYGTV
+#EXTINF:-1, GOSPEL MOVIES TELEVISION- Canal FutucAndroiD
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
+#EXTINF:-1, CINE ANTONIO FILMES 24HS- Canal FutucAndroiD
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
+#EXTINF:-1, HBO2 HD- Canal FutucAndroiD
+http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?INGLESNALDYNHO
+#EXTINF:-1, RAI MOVIES- Canal FutucAndroiD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?ANTONYGTV
+#EXTINF:-1, CLASSIQUE TV- Canal FutucAndroiD
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?ANTONYGTV
+#EXTINF:-1, DW NEWS- Canal FutucAndroiD
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8?ANTONYGTV
+#EXTINF:-1, HISTORY LAB- Canal FutucAndroiD
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
+#EXTINF:-1, TELE BARN
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8?ANTONYGTV
+#EXTINF:-1, ABN KIDS- Canal FutucAndroiD
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?ANTONYGTV
+#EXTINF:-1, GOSPEL CARTOON- Canal FutucAndroiD
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8?ANTONYGTV
+#EXTINF:-1, RETRÔ TV- Canal FutucAndroiD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8?ANTONYGTV
+#EXTINF:-1, RETRÔ MUSIC- Canal FutucAndroiD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1, ARG:CANAL 26 HD- Canal FutucAndroiD
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1, REDE VIDA
+https://tinyurl.com/yyq9x4af
+#EXTINF:-1, SBT (PI)
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1, SBT (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+#EXTINF:-1, REDE TV
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1209374997.m3u8
+#EXTINF:-1, CULTURA HD
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1570812722.m3u8
+#EXTINF:-1, CULTURA (MG)
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
+#EXTINF:-1, TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1, TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1, TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
+#EXTINF:-1, TV EVANGELIZAR
+http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w309622185.m3u8
+#EXTINF:-1, REDE VIDA HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+#EXTINF:-1, REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b1296000.m3u8
+#EXTINF:-1, CANÇÃO NOVA
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1, REDE SECULO 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
+#EXTINF:-1, REDE GOSPEL
+http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8
+#EXTINF:-1, TV UNIVERSAL
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000_t64NDgwcA==_1cc4ab3d-b9e2-47e3-8214-7a10baf59095.m3u8
+#EXTINF:-1, TV RADIO JORNAL
+http://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w653587283.m3u8
+#EXTINF:-1, BLOOMBERG TV - USA
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1, ABC NEWS
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1, ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1, RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1, TV FILMES
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1, TV SUMMER
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1820117447.m3u8
+#EXTINF:-1, CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+#EXTINF:-1, CINE GOSPEL
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1, GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1, TV MACEIÓ [AL]
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1, REDE RC [BA]
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1, TV J.SID [BA]
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1531615987
+#EXTINF:-1, TV AMBIENTAL [ES]
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
+#EXTINF:-1, REDE MINAS [MG]
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1, TV DIÁRIO DO SERTÃO [PB]
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+#EXTINF:-1, TV ASSEMBLEIA [RN]
+https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w591050354.m3u8
+#EXTINF:-1, LIVRE TV [RN]
+https://cdn.jmvstream.com/live/hls/lv_7134/LV7134_7pwaEVRpQ4.m3u8
+#EXTINF:-1, TV NATAL [RN]
+http://stmv6.conectastm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1108698460
+#EXTINF:-1, TV NOVOS HORIZONTES [RS]
+https://v3.ciclano.io:1443/novoshorizontes/_definst_/novoshorizontes/chunklist_w1173069936.m3u8
+#EXTINF:-1, TV FAAP [SP]
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1, Catve HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?
+#EXTINF:-1, Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1, DW NEWS
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8?AndreOid
+#EXTINF:-1, CBS News (Opt-1)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1, Transamerica Curitiba FM
+http://radiocuritiba.crossdigital.com.br:1935/radiocuritiba/estudio/chunklist_w259164305.m3u8
+#EXTINF:-1, Difusora
+https://srv02.brasilstream.com.br/live/difusoraamaovivo/difusoraamaovivo/mono.m3u8?token=470910016
+#EXTINF:-1, FM O DIA 100.5 Rio de Janeiro
+https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b865536.m3u8
+#EXTINF:-1, Tv Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?AndreOid
+#EXTINF:-1, Rede Gospel
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8?AndreOid
+#EXTINF:-1, TV Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+#EXTINF:-1, TV Igreja Mundial
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1, Rede Brasil De Comunicacão PE HD
+http://rbc.directradios.com:1935/rbc/rbc_720p/Playlist.m3u8
+#EXTINF:-1, Rede Brasil De Comunicacão PE SD
+http://rbc.directradios.com:1935/rbc/rbc_360p/playlist.m3u8
+#EXTINF:-1, Canção Nova HD 720p
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1, Grandes golpes
+http://archive.org/download/GrandesGolpesHistoryChannelHD/Grandes%20Golpes%20%5bHistory%20Channel%20HD%5d.mp4
+#EXTINF:-1, A Vida Fora Da Terra
+http://archive.org/download/AVidaForaDaTerra/A%20Vida%20fora%20da%20terra.mp4
+#EXTINF:-1, Energia Ilimitada Para A Sociedade
+http://archive.org/download/EnergiaIlimitadaParaASociedade/Energia%20ilimitada%20para%20a%20sociedade.mp4
+#EXTINF:-1, RAIVA O VIRUS MORTAL
+http://archive.org/download/RAIVAOVIRUSMORTAL/RAIVA%20O%20VIRUS%20MORTAL%20%20-%20Animal%20Planet%20%28720p_30fps_H264-192kbit_AAC%29.mp4
+#EXTINF:-1, Os Segredos do Petróleo
+http://archive.org/download/iptvfoz2020_gmail_Mmsp/mmsp.mp4
+#EXTINF:-1, CINE SKY 2
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+#EXTINF:-1, Filhos De Galileu
+http://archive.org/download/FilhosDeGalileuDocumentrio/Filhos%20de%20Galileu%20-%20Document%c3%a1rio.mp4
+#EXTINF:-1, Stephen Hawking e as Células-Tronco
+http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4
+#EXTINF:-1, O Sentido Da Vida Stephen Hawking
+http://archive.org/download/OSentidoDaVidaPorStephenHawking/O%20Sentido%20da%20Vida%20por%20Stephen%20Hawking.mp4
+#EXTINF:-1, A HISTÓRIA DA TERRA
+http://archive.org/download/AHISTORIADATERRA-Dublado/A%20HIST%C3%93RIA%20DA%20TERRA%20-%20Dublado.mp4
+#EXTINF:-1, alem dos limites humanos - hipoxia
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/02%20-%20Frio%5bmvm%5d.mp4
+#EXTINF:-1, alem dos limites humanos -frio
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/01%20-%20Hipoxia%5bmvm%5d.mp4
+#EXTINF:-1, alem dos limites humanos -tempo
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/03%20-%20Tempo%5bmvm%5d.mp4
+#EXTINF:-1, Star Trek  Segredos do Universo
+http://archive.org/download/Star.Trek.Segredos.Universo/Star.Trek.Segredos.do.Universo.BRAZiLiAN.x264-FHxHD.mp4
+#EXTINF:-1, Telescópio O universo revelado
+http://archive.org/download/Telescopio-2016/TELESC%c3%93PIO%20-%20O%20UNIVERSO%20REVELADO%20480p%20HDTV-Master.mp4
+#EXTINF:-1, Terceiro Reich: Ascensão
+http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Ascens%c3%a3o.mp4
+#EXTINF:-1, Terceiro Reich: Queda
+http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Queda.mp4
+#EXTINF:-1, A internet A Guerra dos Navegadores
+http://archive.org/download/guerra_de_navegadores/A_Internet_-_Guerra_de_Navegadores_512kb.mp4
+#EXTINF:-1, REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1, FOX HITS
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1, MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+#EXTINF:-1, TOP TV
+http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
+#EXTINF:-1, TV CLIMA
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1, TV DIÁRIO DO SERTÃO - PARAÍBA
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w980633800.m3u8
+#EXTINF:-1, TV DIÁRIO DO SERTÃO - PB
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+#EXTINF:-1, TV CINEC
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w323615480.m3u8
+#EXTINF:-1, TV MACEIÓ
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1, ALPHA CHANNEL
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
+#EXTINF:-1, RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1, RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1, Music Top (ARG)
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1, TV CLIMA
+http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8?AndreOid
+#EXTINF:-1, MUSICA:La Mega Mundial (EU)
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1, MUSICA:Melody Channel (EU)
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1, MUSICA:Music Top (Argentina)
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1, MUSICA:Portal Foxmix (Chile)
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1, SÓ FILMES
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1, CAPITAL777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+#EXTINF:-1, CINE 1 24H
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1, Gospel Movies Television 2
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1, CINE SKY 2
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+#EXTINF:-1, CAPITAL777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+#EXTINF:-1, Não Me Abandone Jamais ( 2011)
+http://archive.org/download/NaoMeAbandoneJamais2011720pDubladoAlan680/N%C3%A3o%20Me%20Abandone%20Jamais%20%282011%29%20720p%20Dublado%20-%20Alan_680.mp4
+#EXTINF:-1, Chappie
+http://archive.org/download/Chappie_201601/Chappie.mp4
+#EXTINF:-1, HARRY POTTER E A CAMARA SECRETA
+https://lh3.googleusercontent.com/SKPRe54uBM6LV5M4ICWHbjyoJW0lqqQ5kF79zi_CEcasEwDiNbAo-QlFUy8E4SA3D77-EsoMDA=m22
+#EXTINF:-1, HARRY POTTER E O PRISIONEIRO DE AZKABAM
+https://lh3.googleusercontent.com/9ChtKKWR4OYZ4ZB5jg8srJyHf6K1jaI-0kc8AL6geT5P6YmWriiW2y3qw-M8CunvrmLBBFy87w=m22
+#EXTINF:-1, HARRY POTTER E A ORDEM DA FENIX
+https://lh3.googleusercontent.com/B1Ej1DPPEGxtiuKS5WY0SZ6DSnlR4G-SI4FdO2zFYr3lWQxdZr3r-T3rvVEvsPK5GMTRy9IqgA=m22
+#EXTINF:-1, HARRY POTTER E O ENIGMA DO PRINCIPE
+https://lh3.googleusercontent.com/0Qm8dLYdbs8IeGPJ-eD02ppzV7yBxumYv17WX-sHMqy6Q1tUY-G56hF0A2V3NEESKTPsHcS6gg=m22
+#EXTINF:-1, HARRY POTTER E AS RELIQUIAS DA MORTE 1
+https://lh3.googleusercontent.com/P5l1a734bFEJg7Fq8JllWC4V8ucKJD-Scrq3LCCE8aYSsjnNWuaiejF3x9sSimuqo8957bnWxw=m22
+#EXTINF:-1, ALLIGATOR 1
+https://lh3.googleusercontent.com/AortKH9dAHG1ujI2YN63hcathLQV2Ya1zQTayspS1E8J_MZ9TSBR1vbJnBhtsRKtZA0dkv0dqw=m22
+#EXTINF:-1, ALLIGATOR 2 - A MUTAÇAO
+https://lh3.googleusercontent.com/QtsAAraJo3xT270zhspRMtkgxXiInO7C5CFtzd99pffoKpvSRdA3aDeI6fQKIcFf2gt9UYMEfg=m22
+#EXTINF:-1, PATRULHA CANINA 01 - OS FILHOTES E O TESOURO PIRATA
+https://lh3.googleusercontent.com/ES4Jz7rZ1ZEFFrBKWXsrH0pafYWRD5v5VRNuyjndPAylR4OWCg0I5ykbxOW2xhZINPnqvOGvfw=m18
+#EXTINF:-1, PATRULHA CANINA 02- OS FILHOTES E O TESOURO PIRATA
+https://lh3.googleusercontent.com/GyCg_voT4IlupzejSV7M_UD2vVwO7ZllpjjiQwx1SJpKsu9VR6jHFy4StVl9EiXtqndGQrTPTg=m18
+#EXTINF:-1, PATRULHA CANINA 03 - OS FILHOTES E O TESOURO PIRATA
+https://lh3.googleusercontent.com/INIBVmMz9055Y6-PmQrjmorNFH6v0A9LGLHmaOdXppnemHlw1VfZE75GPXCjf7_1VAPTpCEFqA=m18
+#EXTINF:-1, PATRULHA CANINA 04 - OS FILHOTES E O TESOURO PIRATA
+https://lh3.googleusercontent.com/GXIa7TjdGMW5rUDfiUddneqw0E_YTlPvvRhckSljrFGYuni2WOep5QNfQn2A4cQ0kkG7L3hnzw=m18
+#EXTINF:-1, Sobrenatural: Capítulo 2
+https://lh3.googleusercontent.com/XUxTUDrRkiiTv4p_nKDzpheM_K4cYN9SwtUuk-_-EDU=m22
+#EXTINF:-1, Sobrenatural: A Origem
+https://lh3.googleusercontent.com/8YC_w8TZtVudllY4Zw-PRGQrqrt6wIWBF4ANRye7pjo=m22
+#EXTINF:-1, Os Mercenários 3 Leg
+https://lh3.googleusercontent.com/O-7p7RWQJBDKF9LtRZCyGk7wVG0mFougJXPPP170L8Q=m22
+#EXTINF:-1, Gato de Botas
+https://lh3.googleusercontent.com/Rh0-EYsMxVv9n9afGg7m4GLPM8404vve6UeALmGcZQAGyUaBRuDXcQSDPmFZT6Q8oA40w_0_DrKIyA=m22
+#EXTINF:-1, REC 4 - Apocalipse
+https://lh3.googleusercontent.com/lrwHAE-0tSuONIPZz4xmEzWPEQcDXj_396ThIGZx4bI=m22
+#EXTINF:-1, Jogos Mortais 3
+https://lh3.googleusercontent.com/MWfgFZHJQKIsnHKfktoCZTTzIrarnbkV-wCmxJnulZ1lfsds5Iy45-Sfv-4AR52FWoJT7LXm4z2MS439JhHjukBPmG7GJLPLQuavOnBTg-kGshUy9xvI_7RP1A42LSrSPFqZc9KU7w=m22
+#EXTINF:-1, Jogos Mortais 7: O Final
+https://lh3.googleusercontent.com/k2BZsc0mGPB-6cIinnCBPLxSshBqtuQGX265UWQNcnE9yG6rbVY8QJRvwbwo4dYqE_-EBMuP3JlFBLJOTi2QwA4zKG9X1N4NVzSlFu85cg2J4Afuy_Qw1VD3VsdcJQGBpfmFraGDeg=m22
+#EXTINF:-1,Rock - Um Lutador Op2
+http://nidavellir.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky1.mp4?LHMTv
+#EXTINF:-1,Rock 2 - A Revanche Op2
+http://nidavellir.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky2.mp4?LHMTv
+#EXTINF:-1,Rock 3 - O Desafio Supremo Op2
+http://nidavellir.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky3.mp4?LHMTv
+#EXTINF:-1,Rock 4 Op2
+http://nidavellir.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky4.mp4?LHMTv
+#EXTINF:-1,Rock V Op2
+http://nidavellir.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky5.mp4?LHMTv
+#EXTINF:-1,Rock 6 Op2
+http://nidavellir.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky6.mp4?LHMTv
+#EXTINF:-1,7 Desejos
+http://nidavellir.lhmtv.gq/Servidor/108/7dj087.mp4?LHMTv
+#EXTINF:-1,As Aventuras De Pi
+http://nidavellir.lhmtv.gq/Servidor/aadp4j.mp4?LHMTv
+#EXTINF:-1,A Muralha HD
+http://nidavellir.lhmtv.gq/Servidor/agmhd7.mp4?LHMTv
+#EXTINF:-1,A Longa Caminhada De Billy Lynns
+http://nidavellir.lhmtv.gq/Servidor/alcd4s.mp4?LHMTv
+#EXTINF:-1,A Baba
+http://nidavellir.lhmtv.gq/Servidor/108/abb087.mp4?LHMTv
+#EXTINF:-1,Annabelle 2 A Criacao Do Mal
+http://nidavellir.lhmtv.gq/Servidor/108/a2a087.mp4?LHMTv
+#EXTINF:-1,Ao Cair Da Noite
+http://nidavellir.lhmtv.gq/Servidor/108/acd087.mp4?LHMTv
+#EXTINF:-1,A Mumia
+http://nidavellir.lhmtv.gq/Servidor/108/am108.mp4?LHMTv
+#EXTINF:-1,Amores Canibais
+http://nidavellir.lhmtv.gq/Servidor/108/ac108.mp4?LHMTv
+#EXTINF:-1,Carros 3
+http://nidavellir.lhmtv.gq/Servidor/108/crs3087.mp4?LHMTv
+#EXTINF:-1,Depois Da Terra
+http://nidavellir.lhmtv.gq/Servidor/ddt4ad.mp4?LHMTv
+#EXTINF:-1,Detetives Do Predio Azul O Filme
+http://nidavellir.lhmtv.gq/Servidor/108/ddp087.mp4?LHMTv
+#EXTINF:-1,Dirty Dancing O Musical
+http://nidavellir.lhmtv.gq/Servidor/108/ddo087.mp4?LHMTv
+#EXTINF:-1,Expresso Do Amanha
+http://nidavellir.lhmtv.gq/Servidor/108/eda087.mp4?LHMTv
+#EXTINF:-1,Fim Do Jogo
+http://nidavellir.lhmtv.gq/Servidor/108/fdjo087.mp4?LHMTv
+#EXTINF:-1,Jogo Perigoso
+http://nidavellir.lhmtv.gq/Servidor/108/jp108.mp4?LHMTv
+#EXTINF:-1,Lady Macbeth
+http://nidavellir.lhmtv.gq/Servidor/108/lmt087.mp4?LHMTv
+#EXTINF:-1,Melanie A Ultima Esperanca
+http://nidavellir.lhmtv.gq/Servidor/108/maue087.mp4?LHMTv
+#EXTINF:-1,Meu Malvado Favorito 3
+http://nidavellir.lhmtv.gq/Servidor/108/mmf087.mp4?LHMTv
+#EXTINF:-1,Mune O Guardiao Da Lua
+http://nidavellir.lhmtv.gq/Servidor/108/mog087.mkv?LHMTv
+#EXTINF:-1,Nossas Noites
+http://nidavellir.lhmtv.gq/Servidor/108/nn108.mp4?LHMTv
+#EXTINF:-1,No Limite Do Amanha
+http://nidavellir.lhmtv.gq/Servidor/nlda4k.mp4?LHMTv
+#EXTINF:-1,O Bar
+http://nidavellir.lhmtv.gq/Servidor/108/ob108.mp4?LHMTv
+#EXTINF:-1,O Mago Das Mentiras
+http://nidavellir.lhmtv.gq/Servidor/108/omm08.mp4?LHMTv
+#EXTINF:-1,O Reino Gelado 3 - Fogo E Gelo HD
+http://nidavellir.lhmtv.gq/Servidor/108/org38.mp4?LHMTv
+#EXTINF:-1,Ouro E Cobica
+http://nidavellir.lhmtv.gq/Servidor/108/oc108.mp4?LHMTv
+#EXTINF:-1,O Afogamento
+http://nidavellir.lhmtv.gq/Servidor/108/oaf087.mp4?LHMTv
+#EXTINF:-1,O Culto De Chucky
+http://nidavellir.lhmtv.gq/Servidor/108/occ087.mp4?LHMTv
+#EXTINF:-1,O Livro De Henry
+http://nidavellir.lhmtv.gq/Servidor/108/olh087.mp4?LHMTv
+#EXTINF:-1,Pacific Rim
+http://nidavellir.lhmtv.gq/Servidor/cdf4sc.mp4?LHMTv
+#EXTINF:-1,Planeta Dos Macacos A Guerra
+http://nidavellir.lhmtv.gq/Servidor/108/pmg087.mp4?LHMTv
+#EXTINF:-1,Patrulha Caca Fantasma
+http://nidavellir.lhmtv.gq/Servidor/108/pcf08.mp4?LHMTv
+#EXTINF:-1,Perdido Em Marte
+http://nidavellir.lhmtv.gq/Servidor/pembn4.mp4?LHMTv
+#EXTINF:-1,Pixels
+http://nidavellir.lhmtv.gq/Servidor/pxknb4.mp4?LHMTv
+#EXTINF:-1,Stratton  Forcas Especiais
+http://nidavellir.lhmtv.gq/Servidor/108/sfe087.mp4?LHMTv
+#EXTINF:-1,Star Trek Beyond
+http://nidavellir.lhmtv.gq/Servidor/stsf4k.mp4?LHMTv
+#EXTINF:-1,Transformers O Ultimo Cavaleiro
+http://nidavellir.lhmtv.gq/Servidor/108/tuc08.mp4?LHMTv
+#EXTINF:-1,Trenk O Cavaleiro Trapalhao
+http://nidavellir.lhmtv.gq/Servidor/108/tct087.mp4?LHMTv
+#EXTINF:-1,Truque De Mestre
+http://nidavellir.lhmtv.gq/Servidor/tdmo4k.mp4?LHMTv
+#EXTINF:-1,Um Suburbano Sortudo
+http://nidavellir.lhmtv.gq/Servidor/108/usso087.mp4?LHMTv
+#EXTINF:-1,Uma Familia De Dois
+http://nidavellir.lhmtv.gq/Servidor/108/ud2087.mp4?LHMTv
+#EXTINF:-1,Uma Agente Muito Louca
+http://nidavellir.lhmtv.gq/Servidor/108/uam08.mp4?LHMTv
+#EXTINF:-1,Vencendo O Passado
+http://nidavellir.lhmtv.gq/Servidor/108/vop087.mp4?LHMTv
+#EXTINF:-1,Wheelman
+http://nidavellir.lhmtv.gq/Servidor/108/wlm087.mp4?LHMTv
+#EXTINF:-1, TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1, Tv Boa Esperanca
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8
+#EXTINF:-1, Tv Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1, CINE SKY
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1, Classique TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
+#EXTINF:-1, Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1, Kids
+http://192.99.150.31:9431/stream
+#EXTINF:-1, MPB
+http://192.99.150.31:8775/stream
+#EXTINF:-1, Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1, Forró
+http://192.99.150.31:9019/stream
+#EXTINF:-1, Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:-1, Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:-1, Sertanejo
+http://192.99.150.31:9485/stream
+#EXTINF:-1, Funk
+http://192.99.150.31:9089/;
+#EXTINF:-1, Rock Clássico
+http://192.99.150.31:9125/stream
+#EXTINF:-1, Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+#EXTINF:-1, Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:-1, Anos 70
+http://192.99.150.31:8241/stream
+#EXTINF:-1, Anos 80
+http://192.99.150.31:8697/stream
+#EXTINF:-1, Anos 90
+http://192.99.150.31:8056/stream
+#EXTINF:-1, Românticas
+http://192.99.150.31:8962/stream
+#EXTINF:-1, Rap Nacional
+http://192.99.150.31:8377/stream
+#EXTINF:-1, Eletrônica
+http://192.99.150.31:9095/stream
+#EXTINF:-1, Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:-1, Gospel
+http://192.99.150.31:9101/stream
+#EXTINF:-1, Hip Hop
+http://192.99.150.31:8721/stream
+#EXTINF:-1, Jazz
+http://192.99.150.31:8042/stream
+#EXTINF:-1, Axé
+http://192.99.150.31:8305/stream
+#EXTINF:-1, Brega
+http://192.99.150.31:9007/stream
+#EXTINF:-1, Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:-1, New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:-1, Reggae
+http://192.99.150.31:8715/stream
+#EXTINF:-1, Sertanejo Universitário
+http://192.99.150.31:9191/stream
+#EXTINF:-1, Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:-1, Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+#EXTINF:-1, Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+#EXTINF:-1, FM O DIA TV
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+#EXTINF:-1, FM O DIA
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
+#EXTINF:-1, Mix FM
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:-1, Vibe FM
+http://servidor36.brlogic.com:8180/live
+#EXTINF:-1, Fanatica FM
+http://noasrv.caster.fm:10156/live
+#EXTINF:-1, TV CLIMA
+http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8?AndreOid
+#EXTINF:-1, truckers fm
+https://radio.truckers.fm/
+#EXTINF:-1, Vagalume Vibe
+https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
+#EXTINF:-1, Vagalume Funk
+https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
+#EXTINF:-1, Vagalume Sertanejo Hits
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+#EXTINF:-1, Vagalume Pagode
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+#EXTINF:-1, Rádio Mix
+http://tuneinmix.crossradio.com.br:8008/stream/1/
+#EXTINF:-1, Rádio Disney
+https://edge-np.cdn.mdstrm.com/5a9ee30411c043ae48e40bce.mp3
+#EXTINF:-1, Band FM
+http://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w325491469.m3u8
+#EXTINF:-1, Rádio Energia
+http://audio.97fm.com.br/energia
+#EXTINF:-1, JB FM
+https://20823.live.streamtheworld.com/JBFM.mp3?pname=TdPlayerApi&pversion=2.5&banners=&sbmid=e190d544-81ad-44ce-f431-bef4877dbe80
+#EXTINF:-1, Rádio Bandeirantes
+https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/chunklist_w1799959325.m3u8
+#EXTINF:-1, 98 FM
+http://streaming13.hstbr.net:8072/live
+#EXTINF:-1, FM O DIA
+https://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/playlist.m3u8
+#EXTINF:-1, Transamérica
+http://transamerica.crossradio.com.br:9100/stream/1/
+#EXTINF:-1, Tropical FM
+http://stm19.srvstm.com:20972/stream/1/
+#EXTINF:-1, 93 FM
+https://18133.live.streamtheworld.com/FM93_SC
+#EXTINF:-1, Transcontinental
+http://ice1.crossradio.com.br:8198/live.aac
+#EXTINF:-1, Antena 1
+http://antena1.newradio.it/stream2?ext=.mp3
+#EXTINF:-1, Itapoan FM
+http://streaming.livecenter.com.br:9300/stream/1/
+#EXTINF:-1, Atlantida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=960888114
+#EXTINF:-1, Capital 1040AM
+http://audio.capitalcomvoce.com.br/capital
+#EXTINF:-1, Feliz FM SP
+http://felizfm.sateg.com.br:11520/stream/1/
+#EXTINF:-1, Rádio Gaúcha
+https://722747t.ha.azioncdn.net/2747t/_definst_/gaucha_rbs.sdp/chunklist_3c6a89e5-243e-4091-b0b9-9493c9e8136a.m3u8
+#EXTINF:-1, Guaiba FM
+http://cast4.audiostream.com.br:8007/app
+#EXTINF:-1, Clube FM Brasilia
+http://5940.live.upx.net.br:9082/;
+#EXTINF:-1, USP FM SP
+http://200.144.185.21:8007/radiousp-128.mp3
+#EXTINF:-1, S30 MaxCast Web Rádio
+http://s30.maxcast.com.br:8190/live
+#EXTINF:-1, RÁDIO STUDIO DO AMOR
+http://192.99.150.31:8962/stream
+#EXTINF:-1, METROPOLITANA FM AO VIVO
+http://ice.paineldj3.com.br:8004/stream
+#EXTINF:-1, METROPOLITANA FM - SERTANEJO
+http://m.paineldj6.com.br:8504/stream
+#EXTINF:-1, METROPOLITANA FM - POP
+http://paineldj4.com.br:8510/stream
+#EXTINF:-1, METROPOLITANA FM - FUNK
+http://paineldj4.com.br:8306/stream
+#EXTINF:-1, METROPOLITANA FM - LIGHT
+http://paineldj4.com.br:8594/stream
+#EXTINF:-1, RÁDIO 104 FM
+http://cast4.audiostream.com.br:8651/mp3
+#EXTINF:-1, RÁDIO ATLÂNTIDA FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1, RÁDIO CAIÇARA FM/AM
+http://cast4.audiostream.com.br:8654/mp3
+#EXTINF:-1, RÁDIO CAPÃO FM
+http://cast4.audiostream.com.br:8656/mp3
+#EXTINF:-1, RÁDIO CONTINENTAL FM
+http://cast4.audiostream.com.br:8650/mp3
+#EXTINF:-1, RÁDIO ELDORADO FM
+http://cast4.audiostream.com.br:8652/mp3
+#EXTINF:-1, RÁDIO FM PREMIUM
+http://cast4.audiostream.com.br:8663/mp3
+#EXTINF:-1, RÁDIO GRENAL FM
+http://cast4.audiostream.com.br:8649/mp3
+#EXTINF:-1, RÁDIO IMBÉ FM
+http://cast4.audiostream.com.br:8660/mp3
+#EXTINF:-1, RÁDIO LIBERDADE FM
+http://cast4.audiostream.com.br:8655/mp3
+#EXTINF:-1, RÁDIO PAMPA FM
+http://cast4.audiostream.com.br:8653/mp3
+#EXTINF:-1, RÁDIO PRAIA FM
+http://ice1.crossradio.com.br:8048/live.aac
+#EXTINF:-1, RÁDIO PRINCESA FM
+http://cast4.audiostream.com.br:8662/mp3
+#EXTINF:-1, RÁDIO FM XANGRI-LÁ
+http://cast4.audiostream.com.br:8659/mp3
+#EXTINF:-1, RÁDIO FM TRAMANDAÍ
+http://cast4.audiostream.com.br:8658/mp3
+#EXTINF:-1, RÁDIO FM EXPRESS
+http://cast4.audiostream.com.br:8648/mp3
+#EXTINF:-1, RÁDIO FM TORRES
+http://cast4.audiostream.com.br:8661/mp3
+#EXTINF:-1, RÁDIO FM CIDREIRA
+http://cast4.audiostream.com.br:8657/mp3
+#EXTINF:-1, RÁDIO HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream
+#EXTINF:-1, BAND VALE FM
+http://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
+#EXTINF:-1, BAND NATIVA FM
+http://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8
+#EXTINF:-1, BAND AM SP*
+http://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
+#EXTINF:-1, BAND FM SP*
+http://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8
+#EXTINF:-1, BAND NEWS SP*
+http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+#EXTINF:-1, MIX 106.3 SP
+http://mixmp3.crossradio.com.br:1102/live
+#EXTINF:-1, GOSPEL FM 89
+http://209.126.127.123:8885/live?1522866827534
+#EXTINF:-1, NATIVA SP*
+http://cast.hoost.com.br:8554/stream
+#EXTINF:-1, RÁDIO ROBERTO CARLOS
+http://192.99.150.31:9137/stream
+#EXTINF:-1, ANOS 70
+http://192.99.150.31:8241/stream?
+#EXTINF:-1, ANOS 80
+http://192.99.150.31:8697/stream?
+#EXTINF:-1, ANOS 90
+http://192.99.150.31:8056/stream?
+#EXTINF:-1, ANOS 2000
+http://6d9a.webradio.upx.net.br:9940/stream?
+#EXTINF:-1, AXÉ
+http://192.99.150.31:8305/stream?
+#EXTINF:-1, BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream?
+#EXTINF:-1, BREGA
+http://192.99.150.31:9007/stream?
+#EXTINF:-1, ELETRÔNICA
+http://192.99.150.31:9095/stream?
+#EXTINF:-1, FESTA
+http://6d9a.webradio.upx.net.br:9070/stream?
+#EXTINF:-1, FORRÓ
+http://192.99.150.31:9019/stream?
+#EXTINF:-1, FUNK
+http://192.99.150.31:9089/stream?
+#EXTINF:-1, GOSPEL
+http://192.99.150.31:9101/stream?
+#EXTINF:-1, HIP HOP
+http://192.99.150.31:8721/stream?
+#EXTINF:-1, HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream?
+#EXTINF:-1, KIDS
+http://192.99.150.31:9431/stream?
+#EXTINF:-1, JAZZ
+http://192.99.150.31:8042/stream?
+#EXTINF:-1, LOUNGE
+http://6d9a.webradio.upx.net.br:9064/stream?
+#EXTINF:-1, METAL
+http://6d9a.webradio.upx.net.br:9898/stream?
+#EXTINF:-1, MPB
+http://192.99.150.31:8775/stream?
+#EXTINF:-1, MÚSICA CLÁSSICA
+http://6d9a.webradio.upx.net.br:9970/stream?
+#EXTINF:-1, NEW ROCK
+http://6d9a.webradio.upx.net.br:8028/stream?
+#EXTINF:-1, PAGODE
+http://6d9a.webradio.upx.net.br:9061/stream?
+#EXTINF:-1, POP RITS
+http://6d9a.webradio.upx.net.br:9046/stream?
+#EXTINF:-1, POP ROCK
+http://6d9a.webradio.upx.net.br:8016/stream?
+#EXTINF:-1, SERTANEJO UNIVERSITÁRIO
+http://192.99.150.31:9191/stream?
+#EXTINF:-1, TRILHAS SONORAS
+http://6d9a.webradio.upx.net.br:9896/stream?
+#EXTINF:-1, SERTANEJO RAIZES
+http://192.99.150.31:9155/stream
+#EXTINF:-1, BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1, RAP NACIONAL
+http://192.99.150.31:8377/stream
+#EXTINF:-1, REGGAE
+http://192.99.150.31:8715/stream
+#EXTINF:-1, ROCK CLASSICO
+http://192.99.150.31:9125/stream
+#EXTINF:-1, RODEIO
+http://192.99.150.31:9473/stream
+#EXTINF:-1, SERTANEJO
+http://192.99.150.31:9485/stream
+#EXTINF:-1, SMOOTH JAZZ
+http://192.99.150.31:8042/stream
+#EXTINF:-1, TECHNO
+http://192.99.150.31:8301/stream
+#EXTINF:-1, TECNO BREGA
+http://192.99.150.31:8989/stream
